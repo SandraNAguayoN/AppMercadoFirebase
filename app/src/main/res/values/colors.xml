@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="negro">#000000</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="crear">#FFE0BB</color>
+    <color name="editareliminar">#FFCCCC</color>
+    <color name="lista">#CCFFE3</color>
+    <color name="bluelight">#EDF3FF</color>
+
+
+</resources>

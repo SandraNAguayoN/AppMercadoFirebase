@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163081296516",
+    "firebase_url": "https://proymercado-878de-default-rtdb.firebaseio.com",
+    "project_id": "proymercado-878de",
+    "storage_bucket": "proymercado-878de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163081296516:android:54dfbef1ecc337953f40d1",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.appmercadofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163081296516-srlou65s7bvfk1312vqmnl39vg05d58b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.utng.appmercadofirebase",
+            "certificate_hash": "926542824e40550ffe9fa04e48c7e1c1a2b64ee0"
+          }
+        },
+        {
+          "client_id": "163081296516-jddkrgie012liriipb4toab95dk8d2ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTd9mFjtWClBVddv8nNAx4wVf_dbD7nJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163081296516-jddkrgie012liriipb4toab95dk8d2ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

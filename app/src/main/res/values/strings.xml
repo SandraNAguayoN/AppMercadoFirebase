@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AppMercado</string>
+
+    <string name="app_categoria">Categoría:</string>
+    <string name="app_envio">Envío: </string>
+    <string name="app_garantia">Garantía: </string>
+    <string name="nombre_articulo">Nombre del producto:</string>
+    <string name="precio_articulo">Precio</string>
+    <string name="cantidad_articulo">Cantidad: </string>
+    <string name="descripcion_articulo">Descripción del producto:</string>
+    <string name="registrar_articulo">Registrar Artículo</string>
+    <string name="eliminar_articulo">Eliminar Artículo</string>
+    <string name="editar_articulo">Editar Artículo</string>
+
+    <string-array name="categoria_array">
+        <item>Aparatos electródomesticos</item>
+        <item>Dispositivos electrónicos</item>
+        <item>Muebles</item>
+        <item>Cosmeticos</item>
+        <item>Ropa y accesorios</item>
+        <item>Comida a domicilio</item>
+        <item>Productos para el hogar</item>
+        <item>Otro</item>
+    </string-array>
+
+    <string-array name="envio_array">
+        <item>Gratis</item>
+        <item>IVA incluido</item>
+    </string-array>
+
+    <string-array name="garantia_array">
+        <item>Ninguna</item>
+        <item>1 semana</item>
+        <item>30 días</item>
+        <item>6 meses</item>
+        <item>1 año</item>
+    </string-array>
+
+
+</resources>
